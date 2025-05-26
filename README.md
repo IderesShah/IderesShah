@@ -1,6 +1,6 @@
 🧑‍💼**Ideres Ayub Shah**
 
-📊** Data Analyst** | _**MBA in IT & HR**_
+📊**Data Analyst** | _**MBA in IT & HR**_
 
 I am a results-driven Data Analyst with expertise in _Python, SQL, Power BI, and Excel_, leveraging data to drive business insights and strategic decision-making. With a strong foundation in business intelligence, data visualization, and analytics, I specialize in transforming complex datasets into actionable strategies.
 
